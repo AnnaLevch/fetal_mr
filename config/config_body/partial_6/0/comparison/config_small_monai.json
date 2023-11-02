@@ -1,0 +1,13 @@
+{
+  "data_dir": "../data/body/fiesta_comparison_partial_6_randomization_0",
+  "scans_dir": "../../../data/body/FIESTA/FIESTA_origin/",
+  "training_modalities": [
+    "volume",
+    "truth"
+  ],
+  "training_file": "../fetal_mr/config/config_body/partial_6/0/comparison/debug_split/training_ids.txt",
+  "validation_file": "../fetal_mr/config/config_body/partial_6/0/comparison/debug_split/validation_ids.txt",
+  "test_file": "../fetal_mr/config/config_body/partial_6/0/comparison/debug_split/test_ids.txt",
+  "max_epochs": 1000
+}
+

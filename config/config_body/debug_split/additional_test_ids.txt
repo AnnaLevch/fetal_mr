@@ -1,0 +1,9 @@
+Fetus25_St12_Se18_Cor
+Fetus29_St13_Se19_Cor
+Fetus31_St14_Se15_Cor
+Fetus36_St12_Se19_Cor
+Fetus38_St12_Se20_Cor
+Pat10_Se18_Res1.875_1.875_Spac5.0
+Pat15_Se17_Res1.875_1.875_Spac4.0
+Pat16_Se17_Res1.875_1.875_Spac4.1
+Pat24_Se19_Res1.7188_1.7188_Spac5.0

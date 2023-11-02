@@ -1,0 +1,12 @@
+{
+  "scans_dir": "../../../data/body/TRUFI/TRUFI/",
+  "split_dir": "../fetal_mr/config/config_body/TRUFI/partial_6/0/comparison/debug_split",
+  "training_modalities": [
+    "volume;data",
+    "truth"
+  ],
+  "max_epochs": 2000,
+  "batch_size": 4,
+  "multiply_train": 10
+}
+

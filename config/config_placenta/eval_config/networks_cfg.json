@@ -1,0 +1,13 @@
+{
+  "nn_1_eval": "../models/skull/481/epoch_037-loss-1.103_model.hdf5",
+  "nn_2_evalid": "../models/csf/449/epoch_016-loss-0.861_model.hdf5",
+  "nn_3_eval": "../models/gm/452/epoch_023-loss-0.780_model.hdf5",
+  "model1_wm": "../models/wm/453/epoch_018-loss-0.919_model.hdf5",
+  "model1_lv": "../models/lv/485/epoch_048-loss-1.259_model.hdf5",
+  "model1_cbm": "../models/cbm/455/epoch_037-loss-0.867_model.hdf5",
+  "model2_cbm": "../models/cbm/483/epoch_027-loss-0.924_model.hdf5",
+  "model1_sgm": "../models/sgm/458/epoch_027-loss-0.838_model.hdf5",
+  "model1_bs": "../models/bs/459/epoch_021-loss-0.824_model.hdf5",
+  "model2_bs": "../models/bs/488/epoch_054-loss-1.268_model.hdf5"
+}
+  
